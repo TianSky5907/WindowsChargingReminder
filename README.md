@@ -1,5 +1,11 @@
 # Windows Charging Reminder / Windows 充电提示
 
+此项目完全由AI完成，主要用于我自己学习和练习，功能只能说能用。如果你觉得这个应用确实能解决你的问题，也可以试试看。
+
+This project is completely written by AI and is mainly used for my own learning and practice. The functionality is only usable. If you think this application can actually solve your problem, you can give it a try.
+
+---
+
 插拔充电器、电量低、电量充满、充电异常时给出提示。
 
 ![设置界面](docs/settings-general.png)
